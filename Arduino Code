@@ -2,12 +2,12 @@
 #include <ThingSpeak.h>
 
 // WiFi Credentials
-#define WIFI_SSID "Aditi"
-#define WIFI_PASSWORD "adii2004"
+#define WIFI_SSID "**********"
+#define WIFI_PASSWORD "**********"
 
 // ThingSpeak API
-#define CHANNEL_ID 2832905
-#define API_KEY "NAHQQXA23U3KG9FM"
+#define CHANNEL_ID *******
+#define API_KEY "*****"
 
 // Ultrasonic Sensor Pins
 #define TRIG_PIN D5
